@@ -1,0 +1,49 @@
+0 Frida Kahlo
+1 Edgar Degas
+2 Pieter Bruegel
+3 Vincent van Gogh
+4 Rembrandt
+5 Henri Rousseau
+6 Henri Matisse
+7 Joan Miro
+8 Titian
+9 Paul Gauguin
+10 Pierre-Auguste Renoir
+11 Marc Chagall
+12 Raphael
+13 Leonardo da Vinci
+14 Amedeo Modigliani
+15 Sandro Botticelli
+16 Pablo Picasso
+17 Rene Magritte
+18 Vasiliy Kandinskiy
+19 Salvador Dali
+20 Michelangelo
+21 Mikhail Vrubel
+22 Paul Klee
+23 Camille Pissarro
+24 Giotto di Bondone
+25 Gustave Courbet
+26 Gustav Klimt
+27 Henri de Toulouse-Lautrec
+28 Francisco Goya
+29 Jan van Eyck
+30 Andrei Rublev
+31 Andy Warhol
+32 Alfred Sisley
+33 Paul Cezanne
+34 Diego Velazquez
+35 Edouard Manet
+36 Peter Paul Rubens
+37 Claude Monet
+38 Kazimir Malevich
+39 Hieronymus Bosch
+40 Caravaggio
+41 Piet Mondrian
+42 Diego Rivera
+43 El Greco
+44 William Turner
+45 Georges Seurat
+46 Jackson Pollock
+47 Edvard Munch
+48 Eugene Delacroix
