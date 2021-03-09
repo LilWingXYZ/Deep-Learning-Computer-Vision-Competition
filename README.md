@@ -1,1 +1,1 @@
-# Computer-Vision-Competition
+# Deep-Learning-Computer-Vision-Competition
